@@ -59,16 +59,16 @@ Currently learning React and working toward becoming a Full Stack Developer.
 ## 🚀 Featured Projects
 
 - 🎬 **Netflix Clone** – Responsive streaming platform UI built with modern frontend technologies.  
-  🔗 [Live Demo](https://github.com/Mahdi12Bashiri) | 💻 [Source Code](https://github.com/Mahdi12Bashiri)
+  🔗 <a href="https://Mahdi12Bashiri.github.io/Netflix" target="_blank">Live Demo</a> | 💻 <a href="https://github.com/Mahdi12Bashiri/Netflix" target="_blank">Source Code</a>
 
 - 🛒 **Digikala Clone** – E-commerce frontend focused on responsive layouts and clean UI.  
-  🔗 [Live Demo](https://github.com/Mahdi12Bashiri) | 💻 [Source Code](https://github.com/Mahdi12Bashiri)
+  🔗 <a href="https://Mahdi12Bashiri.github.io/digikala" target="_blank">Live Demo</a> | 💻 <a href="https://github.com/Mahdi12Bashiri/Digikala" target="_blank">Source Code</a>
 
 - 👟 **Puma Landing Page** – Modern product landing page with responsive design.  
-  🔗 [Live Demo](https://github.com/Mahdi12Bashiri) | 💻 [Source Code](https://github.com/Mahdi12Bashiri)
+  🔗 <a href="https://Mahdi12Bashiri.github.io/puma" target="_blank">Live Demo</a> | 💻 <a href="https://github.com/Mahdi12Bashiri/Puma" target="_blank">Source Code</a>
 
 - 👗 **Chanel Landing Page** – Luxury brand landing page recreated for frontend practice.  
-  🔗 [Live Demo](https://github.com/Mahdi12Bashiri) | 💻 [Source Code](https://github.com/Mahdi12Bashiri)
+  🔗 <a href="https://Mahdi12Bashiri.github.io/CHANEL" target="_blank">Live Demo</a> | 💻 <a href="https://github.com/Mahdi12Bashiri/Chanel" target="_blank">Source Code</a>
 
 > More projects are coming soon...
 
