@@ -74,14 +74,6 @@ Currently learning React and working toward becoming a Full Stack Developer.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="left">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahdi12Bashiri&theme=tokyonight&area=true" alt="Mahdi's GitHub Activity" width="100%"/>
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 - React
