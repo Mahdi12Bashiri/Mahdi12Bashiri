@@ -77,8 +77,7 @@ Currently learning React and working toward becoming a Full Stack Developer.
 ## 📊 GitHub Analytics
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Mahdi12Bashiri&show_icons=true&theme=tokyonight&count_private=true" alt="Mahdi's GitHub Stats" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi12Bashiri&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahdi12Bashiri&theme=tokyonight&area=true" alt="Mahdi's GitHub Activity" width="100%"/>
 </p>
 
 ---
