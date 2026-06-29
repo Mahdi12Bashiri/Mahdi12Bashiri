@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋, I'm Mahdi Bashiri
 
-<!--
-**Mahdi12Bashiri/Mahdi12Bashiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer
 
-Here are some ideas to get you started:
+I'm passionate about building fast, responsive, and modern web applications with JavaScript and modern frontend tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vite,tailwind,bootstrap,sass,git,github,vscode,python" />
+</p>
+
+---
+
+## 💡 Skills
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Vite
+- Tailwind CSS
+- Bootstrap
+- Sass
+- REST API
+- Git & GitHub
+- Responsive Design
+- Basic Python
+
+---
+
+## 🌱 Currently Learning
+
+- React
+- TypeScript
+- Clean Architecture
+- Performance Optimization
+
+---
+
+## 🎯 Goal
+
+Become a Professional Frontend Developer and then expand into Full Stack Development.
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: www.linkedin.com/in/mahdi12bashiri
+- 📧 Email: mahdibhashiri@gmail.com
