@@ -14,7 +14,7 @@ Currently learning React and working toward becoming a Full Stack Developer.
 - 🎓 First-year Computer Engineering student at Islamic Azad University, Karaj
 - 💻 Frontend Developer with 4 years of continuous learning and hands-on practice
 - 🚀 Passionate about building responsive and user-friendly web applications
-- 🌱 Currently learning React & TypeScript
+- 🌱 Currently learning React
 - 🎯 Long-term goal: Become a professional Full Stack Developer
 - 📚 Always learning, building projects, and improving my development skills
 
@@ -77,7 +77,6 @@ Currently learning React and working toward becoming a Full Stack Developer.
 ## 🌱 Currently Learning
 
 - React
-- TypeScript
 - Clean Architecture
 - Performance Optimization
 
@@ -85,11 +84,11 @@ Currently learning React and working toward becoming a Full Stack Developer.
 
 ## 🎯 2026 Goals
 
-- ✅ Master React
-- ✅ Learn Next.js
-- ✅ Build production-level frontend projects
-- ✅ Contribute to Open Source
-- ✅ Become a Professional Full Stack Developer
+- 🔄 Learn React
+- ⬜ Learn Next.js
+- ⬜ Build production-level frontend projects
+- ⬜ Contribute to Open Source
+- ⬜ Become a Professional Full Stack Developer
 
 ---
 
