@@ -58,6 +58,12 @@ Currently learning React and working toward becoming a Full Stack Developer.
 
 ## 🚀 Featured Projects
 
+- 🛍️ **Zigzagi Store** – Responsive fashion e-commerce frontend for an original fictional brand, with hero and product sliders, a search modal and a modular architecture. Built with Vanilla JavaScript, Vite, Tailwind CSS and Axios.  
+  🔗 <a href="https://zigzagi-inspired-store.netlify.app/" target="_blank">Live Demo</a> | 💻 <a href="https://github.com/Mahdi12Bashiri/zigzagi-inspired-store" target="_blank">Source Code</a>
+
+- ✅ **Tidy** – Task management app with a dashboard, calendar views, analytics, light/dark mode and keyboard shortcuts. Built with Vue 3, Vue Router, Vite and Tailwind CSS v4.  
+  🔗 <a href="https://mahdi12bashiri.github.io/tidy-todo-app/" target="_blank">Live Demo</a> | 💻 <a href="https://github.com/Mahdi12Bashiri/tidy-todo-app" target="_blank">Source Code</a>
+
 - 🎬 **Netflix Clone** – Responsive streaming platform UI built with modern frontend technologies.  
   🔗 <a href="https://Mahdi12Bashiri.github.io/Netflix-Landing-Page/" target="_blank">Live Demo</a> | 💻 <a href="https://github.com/Mahdi12Bashiri/Netflix-Landing-Page" target="_blank">Source Code</a>
 
